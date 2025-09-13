@@ -74,7 +74,7 @@ chmod +x /home/usuario/scripts/check_nginx.sh
 
 ---
 
-## 🔹 Configurar agendamento com Crontab
+## 🔹 Configurar com Crontab
 
 Abra o editor do `crontab` para o seu usuário:
 ```bash
